@@ -7,7 +7,7 @@
 用的图表库，而且可以较为方便地对图表库进行扩展，以便能够在将来增加一些新类型的图表。</p>
 
 ## UML 结构图
-![simplefactory uml](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/blob/master/CreationalPattern/SimpleFactory/simplefactory.png)
+![simplefactory uml](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/blob/master/CreationalPattern/SimpleFactory/simple-factory.jpeg)
 
 ## 主要优点
 
