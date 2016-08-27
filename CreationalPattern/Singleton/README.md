@@ -9,7 +9,7 @@
 软件成功的关键。</p>
 
 ## UML 结构图
-![singleton uml](http://img.blog.csdn.net/20160827205614619)
+![singleton uml](https://github.com/SunnyMarkLiu/AwesomeDesignPatterns/blob/master/CreationalPattern/Singleton/singleton.png)
 
 ## 主要优点
 
