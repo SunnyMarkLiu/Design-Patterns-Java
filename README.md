@@ -12,6 +12,7 @@ Awesome Design Patterns Summary in java.
 ![Abstract Factory UML](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/blob/master/CreationalPattern/AbstractFactory/abstract_factory.jpeg)
 ### 1.4 [Builder](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/CreationalPattern/Builder)
 ![Builder UML](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/blob/master/CreationalPattern/Builder/builder.gif)
-
+### 1.5 [Prototype](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/CreationalPattern/Prototype)
+![Prototype UML](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/blob/master/CreationalPattern/Prototype/prototype.gif)
 ## Reference Blog
 [刘伟技术博客: 设计模式](http://blog.csdn.net/lovelion/article/details/17517213)
