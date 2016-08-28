@@ -21,3 +21,6 @@ Awesome Design Patterns Summary in java.
 
 ## Reference Blog
 [刘伟技术博客: 设计模式](http://blog.csdn.net/lovelion/article/details/17517213)
+
+## License
+This project is licensed under the terms of the MIT license.
