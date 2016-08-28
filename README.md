@@ -15,7 +15,7 @@ Awesome Design Patterns Summary in java.
 ### 1.5 [Prototype](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/CreationalPattern/Prototype)
 ![Prototype UML](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/blob/master/CreationalPattern/Prototype/prototype.gif)
 
-## 2. StructuralPattern
+## 2. Structural Pattern
 ### 2.1 [Adapter](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/StructuralPattern/Adapter)
 ![Adapter UML](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/blob/master/StructuralPattern/Adapter/adapter.jpg)
 
