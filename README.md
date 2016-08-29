@@ -18,6 +18,8 @@ Awesome Design Patterns Summary in java.
 ## 2. Structural Pattern
 ### 2.1 [Adapter](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/StructuralPattern/Adapter)
 ![Adapter UML](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/blob/master/StructuralPattern/Adapter/adapter.jpg)
+### 2.2 [Composite](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/StructuralPattern/Composite)
+![Composite uml](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/blob/master/StructuralPattern/Composite/AntiVirus_composite.jpg)
 
 ## Reference Blog
 [刘伟技术博客: 设计模式](http://blog.csdn.net/lovelion/article/details/17517213)
