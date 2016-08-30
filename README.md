@@ -1,4 +1,4 @@
-# AwesomeDesignPatterns
+# Awesome Design Patterns
 Awesome Design Patterns Summary in java.
 
 ## 1. Creational Pattern
@@ -12,6 +12,24 @@ Awesome Design Patterns Summary in java.
 ## 2. Structural Pattern
 - [Adapter](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/StructuralPattern/Adapter)
 - [Composite](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/StructuralPattern/Composite)
+- Bridge
+- Decorator
+- Facade
+- Flyweight
+- Proxy
+
+## 3. Behavioral Pattern
+- Chain of Responsibility
+- Command
+- Interpreter
+- Iterator
+- Mediator
+- Memento
+- Observer
+- State
+- Strategy
+- Template Method
+- Visitor
 
 ## Reference Blog
 [刘伟技术博客: 设计模式](http://blog.csdn.net/lovelion/article/details/17517213)
