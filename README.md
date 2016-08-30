@@ -12,6 +12,7 @@ Awesome Design Patterns Summary in java.
 ## 2. Structural Pattern
 - [Adapter](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/StructuralPattern/Adapter)
 - [Composite](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/StructuralPattern/Composite)
+- [Bridge](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/StructuralPattern/Bridge)
 
 ## Reference Blog
 [刘伟技术博客: 设计模式](http://blog.csdn.net/lovelion/article/details/17517213)
