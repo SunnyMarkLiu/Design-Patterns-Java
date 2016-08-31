@@ -13,7 +13,7 @@ Awesome Design Patterns Summary in java.
 - [Adapter](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/StructuralPattern/Adapter)
 - [Composite](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/StructuralPattern/Composite)
 - [Bridge](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/StructuralPattern/Bridge)
-- Decorator
+- [Decorator](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/StructuralPattern/Decorator)
 - [Facade](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/StructuralPattern/Facade)
 - Flyweight
 - Proxy
