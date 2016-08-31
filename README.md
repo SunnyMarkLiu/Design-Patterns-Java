@@ -14,7 +14,7 @@ Awesome Design Patterns Summary in java.
 - [Composite](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/StructuralPattern/Composite)
 - [Bridge](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/StructuralPattern/Bridge)
 - Decorator
-- Facade
+- [Facade](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/StructuralPattern/Facade)
 - Flyweight
 - Proxy
 
