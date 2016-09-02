@@ -19,7 +19,7 @@ Awesome Design Patterns Summary in java.
 - [Proxy](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/StructuralPattern/Proxy)
 
 ## 3. Behavioral Pattern
-- Chain of Responsibility
+- [Chain of Responsibility](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/BehavioralPattern/ChainOfResponsibility)
 - Command
 - Interpreter
 - Iterator
