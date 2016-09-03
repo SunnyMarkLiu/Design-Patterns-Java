@@ -13,7 +13,7 @@
 该系统在将来可能还要根据需要引入新的打折方式。</p>
 
 ## UML 结构图
-![Strategy uml](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/blob/master/BehavioralPattern/Strategy/strategy.jpeg)
+![Strategy uml](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/blob/master/BehavioralPattern/Strategy/strategy.jpg)
 
 ## 主要优点
    
