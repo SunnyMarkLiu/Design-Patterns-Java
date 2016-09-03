@@ -27,7 +27,7 @@ Awesome Design Patterns Summary in java.
 - Memento
 - [Observer](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/BehavioralPattern/Observer)
 - State
-- Strategy
+- [Strategy](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/BehavioralPattern/Strategy)
 - Template Method
 - Visitor
 
