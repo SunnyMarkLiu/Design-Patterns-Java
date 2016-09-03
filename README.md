@@ -25,7 +25,7 @@ Awesome Design Patterns Summary in java.
 - [Iterator](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/BehavioralPattern/Iterator)
 - Mediator
 - Memento
-- Observer
+- [Observer](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/BehavioralPattern/Observer)
 - State
 - Strategy
 - Template Method
