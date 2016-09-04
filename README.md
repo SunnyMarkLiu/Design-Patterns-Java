@@ -20,7 +20,7 @@ Awesome Design Patterns Summary in java.
 
 ## 3. Behavioral Pattern
 - [Chain of Responsibility](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/BehavioralPattern/ChainOfResponsibility)
-- Command
+- [Command](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/BehavioralPattern/Command)
 - Interpreter
 - [Iterator](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/BehavioralPattern/Iterator)
 - Mediator
