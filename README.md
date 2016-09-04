@@ -23,7 +23,7 @@ Awesome Design Patterns Summary in java.
 - [Command](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/BehavioralPattern/Command)
 - Interpreter
 - [Iterator](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/BehavioralPattern/Iterator)
-- Mediator
+- [Mediator](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/BehavioralPattern/Mediator)
 - Memento
 - [Observer](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/BehavioralPattern/Observer)
 - State
