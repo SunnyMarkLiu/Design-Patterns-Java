@@ -29,7 +29,7 @@ Awesome Design Patterns Summary in java.
 - [State](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/BehavioralPattern/State)
 - [Strategy](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/BehavioralPattern/Strategy)
 - [Template Method](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/BehavioralPattern/TemplateMethod)
-- Visitor
+- [Visitor](https://github.com/SunnyMarkLiu/Awesome-Design-Patterns/tree/master/BehavioralPattern/Visitor)
 
 ## Reference Blog
 [刘伟技术博客: 设计模式](http://blog.csdn.net/lovelion/article/details/17517213)
